@@ -1,0 +1,14 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.20
+websockets==14.1
+aiofiles==24.1.0
+python-dotenv==1.0.1
+opencv-python-headless==4.10.0.84
+ultralytics==8.2.0
+easyocr==1.7.2
+numpy==1.26.4
+torch==2.3.0
+torchvision==0.18.0
+pillow==10.3.0
+scipy==1.13.0
